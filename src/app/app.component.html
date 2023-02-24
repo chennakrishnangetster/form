@@ -1,0 +1,202 @@
+ <div class="p-10">
+
+    <!-- FormGroup -->
+    <form class="border-4 border-cyan-900 mx-auto pl-8 pr-8" [formGroup]="Orderform" >
+      
+       <!-- Image and First Heading -->
+         <div class="sm:flex md:flex xl:flex justify-center pt-5 pl-14  ">
+          <img class="pr-10" src="https://www.cognitoforms.com/file/kUAcKTr7VBjHigEEn2apGBShUINe9_cH_0Tp7Kc5c67c699ugRt_m8RJ4O-d6Skx">
+          <h1 class=" sm:pt-14 md:pt-14 xl:pt-14 font-bold text-cyan-900 ">Basic To-Go Order Form</h1>
+         </div>
+
+      <div class="pb-10">
+
+        <!-- Name and Inputs(Firstname,Lastname) -->
+        <div>
+            <div class="text-cyan-900 Bhanschrift font-bold">
+             <span>Name</span>   
+            </div>
+            <mat-form-field class=" w-full  sm:w-1/2  md:w-1/2 xl:w-1/2" appearance="outline" >
+              <input matInput type="text" formControlName="firstname" placeholder="First" [(ngModel)]="datas.firstname">
+               <mat-error *ngIf="Orderform.controls['firstname'].hasError('required')">FirstName is required</mat-error>
+            </mat-form-field> 
+
+            <mat-form-field class="w-full pl-0 sm:w-1/2 sm:pl-5   md:w-1/2 md:pl-5 xl:w-1/2 xl:pl-5 " appearance="outline">
+              <input matInput type="text" placeholder="Last" formControlName="lastname" [(ngModel)]="datas.lastname">
+              <mat-error *ngIf="Orderform.controls['lastname'].hasError('required')">Last Name is required</mat-error>
+            </mat-form-field>
+          </div>
+          
+          <!-- Address and Inputs(add line 1, add line 2) -->
+          <div>
+            <div>
+              <span class="text-cyan-900 Bhanschrift font-bold">Address</span>   
+            </div>
+            <mat-form-field class="w-full  sm:w-1/2  md:w-1/2 xl:w-1/2" appearance="outline">
+              <input matInput placeholder="Address Line 1" formControlName="add1" [(ngModel)]="datas.add1">
+              <mat-error *ngIf="Orderform.controls['add1'].hasError('required')">Address Line 1 is required</mat-error>
+            </mat-form-field>
+
+            <mat-form-field class="w-full pl-0 sm:w-1/2 sm:pl-5   md:w-1/2 md:pl-5 xl:w-1/2 xl:pl-5" appearance="outline">
+              <input matInput placeholder="Address Line 2" formControlName="add2"  [(ngModel)]="datas.add2">
+              <mat-error *ngIf="Orderform.controls['add2'].hasError('required')">Address Line 2 is required</mat-error>
+            </mat-form-field>
+          </div>
+        
+
+          <!-- city,state,zipcode and Inputs -->
+         <div >
+            <mat-form-field class="w-full pl-0 sm:w-1/3    md:w-1/3  xl:w-1/3" appearance="outline">
+              <input matInput placeholder="City" formControlName="city" [(ngModel)]="datas.city">
+              <mat-error *ngIf="Orderform.controls['city'].hasError('required')">City is required</mat-error>
+            </mat-form-field>
+            <mat-form-field class="w-1/2  sm:w-1/3 sm:pl-5 md:w-1/3 md:pl-5 xl:w-1/3 xl:pl-5 " appearance="outline">
+              <mat-select placeholder="State" formControlName="state" [(ngModel)]="datas.state">
+                <mat-option value="TamilNadu">TamilNadu</mat-option>
+                <mat-option value="Kerala">Kerala</mat-option>
+                <mat-option value="Karnataka">Karnataka</mat-option>
+              </mat-select>
+              <mat-error *ngIf="Orderform.controls['state'].hasError('required')">State is required</mat-error>
+            </mat-form-field>
+
+            <mat-form-field class="w-1/2 pl-5 sm:w-1/3 sm:pl-5   md:w-1/3 md:pl-5 xl:w-1/3 xl:pl-5   " appearance="outline">
+              <input matInput placeholder="Zipcode" formControlName="zipcode" type="number" onkeypress="if(this.value.length==6)return false;" [(ngModel)]="datas.zipcode">
+              <mat-error *ngIf="Orderform.controls['zipcode'].hasError('required')">Zipcode is required</mat-error>
+            </mat-form-field>
+          </div>
+
+
+          <!-- Phone,Email and Inputs -->
+          <div> 
+            <div >
+              <span class="text-cyan-900 Bhanschrift font-bold">Phone</span>   
+            </div>
+            <mat-form-field class="w-full  sm:w-1/2  md:w-1/2 xl:w-1/2" appearance="outline">
+              <input matInput placeholder="Phone" formControlName="phone" type="number" onkeypress="if(this.value.length==10)return false;" [(ngModel)]="datas.phone">
+              <mat-error *ngIf="Orderform.controls['phone'].hasError('required')">Phone is required</mat-error>
+            </mat-form-field>
+ 
+            <mat-form-field class="w-full pl-0 sm:w-1/2 sm:pl-5   md:w-1/2 md:pl-5 xl:w-1/2 xl:pl-5" appearance="outline">
+              <div class="absolute bottom-14">
+                <span class="text-cyan-900 Bhanschrift font-bold">Email</span>
+              </div>
+              <input matInput placeholder="Email" formControlName="email" [(ngModel)]="datas.email">
+              <mat-error *ngIf="Orderform.controls['email'].hasError('required')">Email is required</mat-error>
+            </mat-form-field>
+          </div>
+
+
+          <!-- Radio Buttons -->
+          <div>
+            <h2 class="text-cyan-900 Bhanschrift font-bold">Order Type</h2>
+            <mat-radio-group formControlName="order" [(ngModel)]="datas.order">
+              <mat-radio-button value="Delivery">Delivery</mat-radio-button>&nbsp;
+              <mat-radio-button value="Pickup">Pickup</mat-radio-button>
+            </mat-radio-group>
+          </div>&nbsp;
+         
+         <!-- Submit Button -->
+          <div >
+            <button mat-raised-button class="Bhanschrift  bg-cyan-500 font-bold" (click)="AddData()">Submit</button>&nbsp;
+            <button mat-raised-button class="Bhanschrift  bg-green-500 font-bold" (click)=" UpdateData()">Update</button>  
+          </div>
+       
+      </div>
+
+    </form>
+  
+<div class="pt-10">
+
+  <div class="overflow-x-auto border-4 border-gray-500">
+    <table mat-table [dataSource]="dataSource" class="w-full  bg-blue-100  ">
+
+      <!-- Position Column -->
+      <ng-container matColumnDef="id">
+        <th mat-header-cell *matHeaderCellDef class="font-bold "> No. </th>
+        <td mat-cell *matCellDef="let element"> {{element.id}} </td>
+      </ng-container>
+    
+      <!-- Name Column -->
+      <ng-container matColumnDef="firstname">
+        <th mat-header-cell *matHeaderCellDef class="font-bold"> FirstName </th>
+        <td mat-cell *matCellDef="let element"> {{element.firstname}} </td>
+      </ng-container>
+    
+      <!-- lastname Column -->
+      <ng-container matColumnDef="lastname">
+        <th mat-header-cell *matHeaderCellDef class="font-bold"> LastName </th>
+        <td mat-cell *matCellDef="let element"> {{element.lastname}} </td>
+      </ng-container>
+    
+      <!-- address1 -->
+      <ng-container matColumnDef="add1">
+        <th mat-header-cell *matHeaderCellDef class="font-bold"> Address Line 1 </th>
+        <td mat-cell *matCellDef="let element"> {{element.add1}} </td>
+      </ng-container>
+
+      <!-- address2 -->
+      <ng-container matColumnDef="add2">
+        <th mat-header-cell *matHeaderCellDef class="font-bold"> Address Line 2 </th>
+        <td mat-cell *matCellDef="let element"> {{element.add2}} </td>
+      </ng-container>
+
+      <!-- city -->
+      <ng-container matColumnDef="city">
+        <th mat-header-cell *matHeaderCellDef class="font-bold"> City </th>
+        <td mat-cell *matCellDef="let element"> {{element.city}} </td>
+      </ng-container>
+
+      <!-- state -->
+      <ng-container matColumnDef="state">
+        <th mat-header-cell *matHeaderCellDef class="font-bold"> State </th>
+        <td mat-cell *matCellDef="let element"> {{element.state}} </td>
+      </ng-container>
+    
+      <!-- zipcode -->
+      <ng-container matColumnDef="zipcode">
+        <th mat-header-cell *matHeaderCellDef class="font-bold"> Zipcode </th>
+        <td mat-cell *matCellDef="let element"> {{element.zipcode}} </td>
+      </ng-container>
+
+      <!-- phone -->
+      <ng-container matColumnDef="phone">
+        <th mat-header-cell *matHeaderCellDef class="font-bold"> Phone</th>
+        <td mat-cell *matCellDef="let element"> {{element.phone}} </td>
+      </ng-container>
+
+      <!-- email -->
+      <ng-container matColumnDef="email">
+        <th mat-header-cell *matHeaderCellDef class="font-bold"> Email </th>
+        <td mat-cell *matCellDef="let element"> {{element.email}} </td>
+      </ng-container>
+
+      <!-- radio  Buttons-->
+      <ng-container matColumnDef="order">
+        <th mat-header-cell *matHeaderCellDef class="font-bold"> Order Type </th>
+        <td mat-cell *matCellDef="let element"> {{element.order}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="edit">
+        <th mat-header-cell *matHeaderCellDef class="font-bold"> Edit</th>
+        <td mat-cell *matCellDef="let element"> 
+          <button mat-icon-button color="primary" (click)="EditData(element)">
+            <mat-icon>edit</mat-icon>
+          </button>  
+        </td>
+      </ng-container>
+
+      <ng-container matColumnDef="delete">
+        <th mat-header-cell *matHeaderCellDef class="font-bold"> Delete</th>
+        <td mat-cell *matCellDef="let element"> 
+          <button mat-icon-button color="warn" (click)="DeleteData(element.id)">
+            <mat-icon>delete</mat-icon>
+          </button>  
+        </td>
+      </ng-container>
+
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+  </div>
+  </div>
+  </div>

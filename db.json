@@ -1,0 +1,82 @@
+{
+  "Users": [
+    {
+      "firstname": "Chenna",
+      "lastname": "Krishnan M",
+      "add1": "Chennai Silks",
+      "add2": "Hosur",
+      "city": "Hosur",
+      "zipcode": 636803,
+      "phone": 9047522083,
+      "email": "Chennakrishnan096@gmail.com",
+      "state": "Kerala",
+      "order": "Pickup",
+      "id": 1
+    },
+    {
+      "firstname": "Chenna",
+      "lastname": "Krishnan M",
+      "add1": "Chennai Silks",
+      "add2": "Hosur",
+      "city": "Hosur",
+      "zipcode": 636803,
+      "phone": 9047522083,
+      "email": "Chennakrishnan096@gmail.com",
+      "state": "Kerala",
+      "order": "Pickup",
+      "id": 2
+    },
+    {
+      "firstname": "Chenna",
+      "lastname": "Krishnan M",
+      "add1": "Chennai Silks",
+      "add2": "Hosur",
+      "city": "Hosur",
+      "zipcode": 636803,
+      "phone": 9047522083,
+      "email": "Chennakrishnan096@gmail.com",
+      "state": "TamilNadu",
+      "order": "Delivery",
+      "id": 4
+    },
+    {
+      "firstname": "Chenna",
+      "lastname": "Krishnan M",
+      "add1": "Chennai Silks",
+      "add2": "Hosur",
+      "city": "Hosur",
+      "zipcode": 636803,
+      "phone": 9047522083,
+      "email": "Chennakrishnan096@gmail.com",
+      "state": "Kerala",
+      "order": "Pickup",
+      "id": 5
+    },
+    {
+      "firstname": "Chenna",
+      "lastname": "Krishnan M",
+      "add1": "Chennai Silks",
+      "add2": "Hosur",
+      "city": "Hosur",
+      "zipcode": 636803,
+      "phone": 9047522083,
+      "email": "Chennakrishnan096@gmail.com",
+      "state": "TamilNadu",
+      "order": "Pickup",
+      "id": 6
+    },
+    {
+      "firstname": "Chenna",
+      "lastname": "Krishnan M",
+      "add1": "Chennai Silks",
+      "add2": "Hosur",
+      "city": "Hosur",
+      "zipcode": 636803,
+      "phone": 9047522083,
+      "email": "Chennakrishnan096@gmail.com",
+      "state": "TamilNadu",
+      "order": "Delivery",
+      "id": 8
+    }
+  ]
+}
