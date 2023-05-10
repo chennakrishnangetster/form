@@ -1,0 +1,403 @@
+[18:21.03.687]  Starting MobaXterm
+[18:21.03.687]  
+[18:21.03.687]  BEGIN AdaptToGlobalDPI
+[18:21.03.687]      AdaptToGlobalDPI: DPI=120
+[18:21.03.687]      BEGIN LaunchLoadFlatIconsThreads
+[18:21.03.687]          BEGIN WaitForLoadFlatIconsThreads
+[18:21.03.687]          END WaitForLoadFlatIconsThreads
+[18:21.03.687]          BEGIN WaitForGenerateStdListThreads
+[18:21.03.687]          END WaitForGenerateStdListThreads
+[18:21.03.687]          Loading flat icons 16
+[18:21.03.687]          Loading flat icons 22
+[18:21.03.687]          Loading flat icons 64
+[18:21.03.687]          Loading extensions icons
+[18:21.03.687]      END LaunchLoadFlatIconsThreads
+[18:21.03.687]  END AdaptToGlobalDPI
+[18:21.03.687]  
+[18:21.03.687]  BEGIN AddMobaConsoleFont
+[18:21.03.687]  END AddMobaConsoleFont
+[18:21.03.687]  
+[18:21.03.687]  
+[18:21.03.687]  BEGIN MobaProfileDir detection
+[18:21.03.687]      BEGIN GetProfileDirScore(C:\Users\Mugil\AppData\Roaming\)
+[18:21.03.687]          "C:\Users\Mugil\AppData\Roaming\" seems to be writeable
+[18:21.03.687]          "C:\Users\Mugil\AppData\Roaming\MobaXterm\MobaXterm.ini" already exists
+[18:21.03.687]          "C:\Users\Mugil\AppData\Roaming\" is not a network path
+[18:21.03.687]      END GetProfileDirScore(C:\Users\Mugil\AppData\Roaming\): 36
+[18:21.03.687]  END MobaProfileDir detection
+[18:21.03.687]  
+[18:21.03.687]  --> Selected MobaProfile directory: "C:\Users\Mugil\AppData\Roaming\"
+[18:21.03.687]  
+[18:21.03.687]  - MobaXterm version: 23.1 Build 5058
+[18:21.03.687]  - Command line: "C:\Users\Mugil\Downloads\Telegram Desktop\MobaXterm_Personal_23.1.exe"
+[18:21.03.687]  - Date: 2023-05-10
+[18:21.03.687]  - Windows version number: 10.0.2.22624.
+[18:21.03.687]  - Windows version name: Windows 10
+[18:21.03.687]  - Windows full name: Windows 10 Home 2009 build 22624
+[18:21.03.687]  - Windows architecture: 64-bits
+[18:21.03.687]  - User language: English (United States)
+[18:21.03.687]  - CPU architecture: x86
+[18:21.03.687]  - Detected DPI: 120
+[18:21.03.687]  - User DPI: 120
+[18:21.03.687]  - CurDir: C:\Users\Mugil\DOWNLO~1\TELEGR~1\
+[18:21.03.687]  - PersonalDir: C:\Users\Mugil\OneDrive\DOCUME~1\
+[18:21.03.687]  - AppDataDir: C:\Users\Mugil\AppData\Roaming\
+[18:21.03.687]  - LocalAppDataDir: C:\Users\Mugil\AppData\Local\
+[18:21.03.687]  - DesktopDir: C:\Users\Mugil\OneDrive\Desktop\
+[18:21.03.687]  - CustomProfileDir: 0
+[18:21.03.687]  - MobaProfileDir: C:\Users\Mugil\AppData\Roaming\
+[18:21.03.687]  - Free space in MobaProfileDir folder: 50694MB
+[18:21.03.687]  - TempDir: C:\Users\Mugil\AppData\Local\Temp\
+[18:21.03.687]  - Free space in TempDir folder: 50694MB
+[18:21.03.687]  - Monitor #0 LxTxWxH: 0x0x1920x1080
+[18:21.03.687]  - User name: Mugil
+[18:21.03.687]  - Computer name: DESKTOP-DBDG3R5
+[18:21.03.687]  - Current Windows locale: 1033
+[18:21.03.687]  - Windows beta unicode support not set
+[18:21.03.687]  - Uptime: 0 days, 06:41:49
+[18:21.03.687]  - Windows PATH: C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\nodejs\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Mugil\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Mugil\AppData\Local\Programs\Python\Python310\;C:\Users\Mugil\AppData\Local\Microsoft\WindowsApps;;C:\Users\Mugil\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Mugil\AppData\Roaming\npm
+[18:21.03.687]  - WSL PATH: C:\WINDOWS\Sysnative\wsl.exe
+[18:21.03.687]  
+[18:21.03.687]  BEGIN Form1.FormCreate
+[18:21.03.687]      Detecting installed/portable version
+[18:21.03.687]      --> portable version
+[18:21.03.687]      
+[18:21.03.687]      Detecting IniSettings
+[18:21.03.687]      An existing INI file has been detected in "C:\Users\Mugil\AppData\Roaming\MobaXterm\MobaXterm.ini".
+[18:21.03.687]      MobaXterm will use this path for INI file.
+[18:21.03.687]      MobaXterm will take its configuration from file "C:\Users\Mugil\AppData\Roaming\MobaXterm\MobaXterm.ini".
+[18:21.03.687]      (selected ini file seems to be writeable)
+[18:21.03.687]      --> IniSettings= C:\Users\Mugil\AppData\Roaming\MobaXterm\MobaXterm.ini
+[18:21.03.687]      
+[18:21.03.687]      
+[18:21.03.687]      We are using the "New" SSH engine
+[18:21.03.687]      
+[18:21.03.687]      
+[18:21.03.687]      Detecting ModeIni
+[18:21.03.687]      --> ModeIni= true
+[18:21.03.687]      
+[18:21.03.687]      Detecting CygUtils
+[18:21.03.687]      CygUtils NOT PRESENT
+[18:21.03.687]      
+[18:21.03.687]      Detecting MobaXVTDir
+[18:21.03.687]      BEGIN IsFolderRW(C:\Users\Mugil\AppData\Local\Temp\Mxt231)
+[18:21.03.748]      END IsFolderRW(C:\Users\Mugil\AppData\Local\Temp\Mxt231) --> OK
+[18:21.03.748]      --> MobaXVTDir= C:\Users\Mugil\AppData\Local\Temp\Mxt231
+[18:21.03.748]      
+[18:21.03.748]      Detecting BinExeDir
+[18:21.03.748]      --> BinExeDir= C:\Users\Mugil\AppData\Local\Temp\Mxt231\bin\
+[18:21.03.748]      
+[18:21.03.748]      BEGIN GetMobaseStream
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     +--------------------------------------------------------------------+ 
+     |                 Windows Event Viewer: "Application"                | 
+     +--------------------------------------------------------------------+ 
+
+
+
+
+
+
+
+
+Info    | 2023-05-10 10:27:45 | gupdate |     |    Service stopped
+Info    | 2023-05-10 09:49:01 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2023-05-10 09:49:01 | DellTechHub |     |    PowerEvent handled successfully by the service.
+Info    | 2023-05-10 09:36:08 | ESENT |     |    svchost    |    10156,D,50    |    DS_Token_DB:     |    1    |    C:\WINDOWS\system32\config\systemprofile\AppData\Local\DataSharing\Storage\DSTokenDB2.dat    |    0    |    
+[1] 0.000003 +J(0)
+[2] 0.002215 -0.000438 (1) WT +J(0) +M(C:0K, Fs:17, WS:4K # 4K, PF:4K # 0K, P:4K)
+[3] 0.003755 -0.000844 (6) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:3480/2) +M(C:0K, Fs:6, WS:20K # 0K, PF:20K # 0K, P:20K)
+[4] 0.000985 +J(0)
+[5] -
+[6] 0.000400 -0.000348 (2) CM -0.000249 (2) WT +J(CM:2, PgRf:2, Rd:0/2, Dy:0/0, Lg:0/0)
+[7] 0.000001 +J(0)
+[8] 0.000720 -0.000567 (1) CM -0.000556 (1) WT +J(CM:1, PgRf:1, Rd:14/0, Dy:0/0, Lg:0/0) +M(C:16K, Fs:15, WS:60K # 16K, PF:208K # 144K, P:208K)
+[9] -
+[10] -
+[11] -
+[12] 0.000551 +J(0)
+[13] 0.000790 -0.000592 (1) CM -0.000524 (1) WT +J(CM:1, PgRf:23, Rd:0/1, Dy:0/0, Lg:0/0) +M(C:0K, Fs:19, WS:76K # 76K, PF:4K # 4K, P:4K)
+[14] 0.000240 -0.000155 (1) CM -0.000101 (1) WT +J(CM:1, PgRf:40, Rd:0/1, Dy:0/0, Lg:0/0) +M(C:0K, Fs:1, WS:4K # 4K, PF:0K # 0K, P:0K)
+[15] 0.000005 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0)
+[16] 0.000005 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0)
+[17] 0.000034 +J(CM:0, PgRf:42, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:4, WS:16K # 16K, PF:0K # 0K, P:0K)
+[18] 0.0 +J(0)
+[19] 0.0 +J(0)
+[20] 0.000003 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0).    |    1 0    |    lgposAttach = 0000002A:0004:0268,
+dbv = 1568.20.0 (8920)
+Info    | 2023-05-10 09:36:08 | ESENT |     |    svchost    |    10156,D,50    |    DS_Token_DB:     |    C:\WINDOWS\system32\config\systemprofile\AppData\Local\DataSharing\Storage\DSTokenDB2.dat    |    0x410022D8 (8920 | JET_efvAllowHigherPersistedFormat)    |    8920 (0x22d8)    |    9480 (0x2508)
+Info    | 2023-05-10 09:36:08 | ESENT |     |    svchost    |    10156,D,0    |    DS_Token_DB:     |    0    |    0    |    
+[1] 0.000534 +J(0) +M(C:0K, Fs:148, WS:576K # 576K, PF:2816K # 2816K, P:2816K)
+[2] 0.000221 +J(0) +M(C:8K, Fs:109, WS:432K # 432K, PF:344K # 344K, P:344K)
+[3] 0.000010 +J(0) +M(C:0K, Fs:5, WS:16K # 16K, PF:68K # 68K, P:68K)
+[4] 0.000117 +J(0) +M(C:0K, Fs:40, WS:160K # 160K, PF:184K # 184K, P:184K)
+[5] 0.000667 +J(0) +M(C:0K, Fs:160, WS:636K # 636K, PF:912K # 912K, P:912K)
+[6] 0.004027 +J(0) +M(C:0K, Fs:85, WS:336K # 336K, PF:52K # 52K, P:52K)
+[7] 0.002028 -0.000656 (2) WT +J(0) +M(C:0K, Fs:33, WS:132K # 132K, PF:64K # 64K, P:64K)
+[8] 0.039562 -0.020962 (142) CM -0.019032 (154) WT +J(CM:142, PgRf:147, Rd:0/142, Dy:1/1, Lg:56622/277) +M(C:16K, Fs:225, WS:736K # 736K, PF:760K # 764K, P:760K)
+[9] 0.007318 -0.001133 (6) CM -0.004198 (9) WT +J(CM:6, PgRf:15, Rd:11/5, Dy:1/3, Lg:4056/26) +M(C:16K, Fs:39, WS:148K # 148K, PF:116K # 112K, P:116K) + 1 lgens
+[10] 0.001480 -0.000298 (1) WT +J(0) +M(C:0K, Fs:0, WS:-60K # 0K, PF:-60K # 0K, P:-60K)
+[11] 0.000037 +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:49/1) +M(C:0K, Fs:3, WS:12K # 0K, PF:0K # 0K, P:0K)
+[12] 0.001148 -0.000274 (1) WT +J(0)
+[13] 0.013633 -0.000821 (2) CM -0.002890 (18) WT +J(CM:2, PgRf:2, Rd:0/2, Dy:0/0, Lg:8759/5) +M(C:0K, Fs:30, WS:0K # 16K, PF:-28K # 0K, P:-28K)
+[14] 0.000016 +J(0)
+[15] 0.000009 +J(0)
+[16] 0.001230 -0.000360 (1) WT +J(0) +M(C:0K, Fs:2, WS:0K # 0K, PF:0K # 0K, P:0K).    |    lgposV2[] = 00000029:0001:0000 - 00000029:000E:0C2F - 0000002A:0002:0000 - 0000002A:0002:0000 (00000000:0000:0000)
+cReInits = 1
+RBSOn = 0
+
+Info    | 2023-05-10 09:36:08 | ESENT |     |    svchost    |    10156,U,98    |    DS_Token_DB: 
+Info    | 2023-05-10 09:36:08 | ESENT |     |    svchost    |    10156,R,98    |    DS_Token_DB:     |    C:\WINDOWS\system32\config\systemprofile\AppData\Local\DataSharing\Storage\DSS.log    |    
+[1] 0.004507 -0.001133 (6) CM -0.003728 (7) WT +J(CM:6, PgRf:15, Rd:4/5, Dy:1/3, Lg:4056/26) +M(C:8K, Fs:14, WS:52K # 52K, PF:84K # 80K, P:84K).    |    Insert       |    15
+Info    | 2023-05-10 09:36:08 | ESENT |     |    svchost    |    10156,R,98    |    DS_Token_DB:     |    C:\WINDOWS\system32\config\systemprofile\AppData\Local\DataSharing\Storage\DSS00029.log    |    
+[1] 0.033547 -0.020962 (142) CM -0.017766 (150) WT +J(CM:142, PgRf:147, Rd:0/142, Dy:1/1, Lg:56622/277) +M(C:16K, Fs:167, WS:588K # 520K, PF:664K # 600K, P:664K).    |    Insert       |    133
+Info    | 2023-05-10 09:36:08 | ESENT |     |    svchost    |    10156,R,98    |    DS_Token_DB:     |    C:\WINDOWS\system32\config\systemprofile\AppData\Local\DataSharing\Storage\DSTokenDB2.dat    |    0x410022D8 (8920 | JET_efvAllowHigherPersistedFormat)    |    8920 (0x22d8)    |    9480 (0x2508)
+Info    | 2023-05-10 09:36:08 | ESENT |     |    svchost    |    10156,R,98    |    DS_Token_DB: 
+Info    | 2023-05-10 09:36:08 | ESENT |     |    svchost    |    10156,P,98    |    DS_Token_DB:     |    0    |    10    |    00    |    22624    |    0000
+Info    | 2023-05-10 09:19:17 | Software Protection Platform Service |     |    2023-06-09T06:10:17Z    |    RulesEngine
+Info    | 2023-05-10 09:17:51 | Software Protection Platform Service |     |    0ff1ce15-a989-479d-af46-f275c6370663    |    
+1: a24cca51-3d54-4c41-8a76-4031f5338cb2, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: b13afb38-cd79-4ae5-9f7f-eed058d750ca, 1, 1 [(0 [0xC004E003, 0, 0], [( 2 0xC004F00F 0 0 msft:rm/algorithm/volume/1.0 0x00000000 0)( 1 0x00000000)(?)( 2 0xC004F00F 0 0 msft:rm/algorithm/volume/1.0 0x00000000 0)(?)(?)(?)(?)])(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F00F)])]
+3: b322da9c-a2e2-4058-9e4e-f59a6970bd69, 1, 1 [(0 [0xC004E003, 0, 0], [( 2 0xC004F00F 0 0 msft:rm/algorithm/volume/1.0 0x00000000 0)( 1 0x00000000)(?)( 2 0xC004F00F 0 0 msft:rm/algorithm/volume/1.0 0x00000000 0)(?)(?)(?)(?)])(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F00F)])]
+
+
+Info    | 2023-05-10 09:17:48 | Software Protection Platform Service |     |    0ff1ce15-a989-479d-af46-f275c6370663    |    
+1: a24cca51-3d54-4c41-8a76-4031f5338cb2, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: b13afb38-cd79-4ae5-9f7f-eed058d750ca, 1, 1 [(0 [0xC004E003, 0, 0], [( 2 0xC004F00F 0 0 msft:rm/algorithm/volume/1.0 0x00000000 0)( 1 0x00000000)(?)( 2 0xC004F00F 0 0 msft:rm/algorithm/volume/1.0 0x00000000 0)(?)(?)(?)(?)])(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F00F)])]
+3: b322da9c-a2e2-4058-9e4e-f59a6970bd69, 1, 1 [(0 [0xC004E003, 0, 0], [( 2 0xC004F00F 0 0 msft:rm/algorithm/volume/1.0 0x00000000 0)( 1 0x00000000)(?)( 2 0xC004F00F 0 0 msft:rm/algorithm/volume/1.0 0x00000000 0)(?)(?)(?)(?)])(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F00F)])]
+
+
+Info    | 2023-05-10 09:17:47 | Software Protection Platform Service |     |    0ff1ce15-a989-479d-af46-f275c6370663    |    
+1: b322da9c-a2e2-4058-9e4e-f59a6970bd69, 1, 1 [(0 [0xC004E003, 0, 0], [( 2 0xC004F00F 0 0 msft:rm/algorithm/volume/1.0 0x00000000 0)( 1 0x00000000)(?)( 2 0xC004F00F 0 0 msft:rm/algorithm/volume/1.0 0x00000000 0)(?)(?)(?)(?)])(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F00F)])]
+
+
+Info    | 2023-05-10 09:17:47 | Software Protection Platform Service |     |    0ff1ce15-a989-479d-af46-f275c6370663    |    
+1: b13afb38-cd79-4ae5-9f7f-eed058d750ca, 1, 1 [(0 [0xC004E003, 0, 0], [( 2 0xC004F00F 0 0 msft:rm/algorithm/volume/1.0 0x00000000 0)( 1 0x00000000)(?)( 2 0xC004F00F 0 0 msft:rm/algorithm/volume/1.0 0x00000000 0)(?)(?)(?)(?)])(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F00F)])]
+
+
+Info    | 2023-05-10 09:17:47 | Software Protection Platform Service |     |    0ff1ce15-a989-479d-af46-f275c6370663    |    
+1: a24cca51-3d54-4c41-8a76-4031f5338cb2, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: b13afb38-cd79-4ae5-9f7f-eed058d750ca, 1, 1 [(0 [0xC004E003, 0, 0], [( 2 0xC004F00F 0 0 msft:rm/algorithm/volume/1.0 0x00000000 0)( 1 0x00000000)(?)( 2 0xC004F00F 0 0 msft:rm/algorithm/volume/1.0 0x00000000 0)(?)(?)(?)(?)])(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F00F)])]
+3: b322da9c-a2e2-4058-9e4e-f59a6970bd69, 1, 1 [(0 [0xC004E003, 0, 0], [( 2 0xC004F00F 0 0 msft:rm/algorithm/volume/1.0 0x00000000 0)( 1 0x00000000)(?)( 2 0xC004F00F 0 0 msft:rm/algorithm/volume/1.0 0x00000000 0)(?)(?)(?)(?)])(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F00F)])]
+
+
+Info    | 2023-05-10 09:17:47 | Software Protection Platform Service |     |    0ff1ce15-a989-479d-af46-f275c6370663    |    b322da9c-a2e2-4058-9e4e-f59a6970bd69
+Info    | 2023-05-10 09:17:47 | Software Protection Platform Service |     |    0ff1ce15-a989-479d-af46-f275c6370663    |    b13afb38-cd79-4ae5-9f7f-eed058d750ca
+Info    | 2023-05-10 09:17:47 | Software Protection Platform Service | 
+Info    | 2023-05-10 09:10:43 | ESENT |     |    Video.UI    |    15620,D,2    |    {ABAEE815-1217-4184-B974-AC51B8B6AB53}:     |    C:\Users\Mugil\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\62b869883e79c27a\tmp.edb    |    0x410022D8 (8920 | JET_efvAllowHigherPersistedFormat)    |    8920 (0x22d8)    |    9480 (0x2508)
+Info    | 2023-05-10 09:10:43 | ESENT |     |    Video.UI    |    15620,D,50    |    {ABAEE815-1217-4184-B974-AC51B8B6AB53}:     |    1    |    C:\Users\Mugil\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\62b869883e79c27a\EntClientDb.edb    |    0    |    
+[1] 0.000002 +J(0)
+[2] 0.000451 +J(0) +M(C:0K, Fs:18, WS:8K # 0K, PF:8K # 0K, P:8K)
+[3] 0.002304 -0.000602 (5) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:3480/2) +M(C:0K, Fs:8, WS:24K # 0K, PF:24K # 0K, P:24K)
+[4] 0.000144 +J(0)
+[5] -
+[6] 0.041659 -0.041548 (2) CM +J(CM:2, PgRf:2, Rd:0/2, Dy:0/0, Lg:0/0) +M(C:0K, Fs:4, WS:16K # 0K, PF:16K # 0K, P:16K)
+[7] -
+[8] 0.010733 -0.010376 (1) WT +J(CM:1, PgRf:1, Rd:14/1, Dy:0/0, Lg:0/0) +M(C:0K, Fs:16, WS:56K # 0K, PF:296K # 0K, P:296K)
+[9] -
+[10] -
+[11] -
+[12] 0.000581 +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K)
+[13] 0.000675 -0.000497 (4) CM +J(CM:4, PgRf:23, Rd:0/4, Dy:0/0, Lg:0/0) +M(C:0K, Fs:32, WS:128K # 0K, PF:8K # 0K, P:8K)
+[14] 0.000072 -0.000002 (1) CM +J(CM:1, PgRf:40, Rd:0/1, Dy:0/0, Lg:0/0) +M(C:0K, Fs:3, WS:4K # 0K, PF:64K # 0K, P:64K)
+[15] 0.000003 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0)
+[16] 0.000004 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0)
+[17] 0.000026 +J(CM:0, PgRf:42, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K)
+[18] 0.0 +J(0)
+[19] 0.0 +J(0)
+[20] 0.000003 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0).    |    0 0    |    lgposAttach = 00000002:00B1:0268,
+dbv = 1568.20.0 (8920)
+Info    | 2023-05-10 09:10:43 | ESENT |     |    Video.UI    |    15620,D,50    |    {ABAEE815-1217-4184-B974-AC51B8B6AB53}:     |    C:\Users\Mugil\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\62b869883e79c27a\EntClientDb.edb    |    0x410022D8 (8920 | JET_efvAllowHigherPersistedFormat)    |    8920 (0x22d8)    |    9480 (0x2508)
+Info    | 2023-05-10 09:10:43 | ESENT |     |    Video.UI    |    15620,D,0    |    {ABAEE815-1217-4184-B974-AC51B8B6AB53}:     |    0    |    0    |    
+[1] 0.000803 +J(0) +M(C:0K, Fs:190, WS:740K # 740K, PF:2860K # 2860K, P:2860K)
+[2] 0.000331 +J(0) +M(C:0K, Fs:111, WS:440K # 440K, PF:352K # 352K, P:352K)
+[3] 0.000023 +J(0) +M(C:0K, Fs:6, WS:16K # 16K, PF:72K # 72K, P:72K)
+[4] 0.000188 +J(0) +M(C:0K, Fs:43, WS:172K # 172K, PF:176K # 176K, P:176K)
+[5] 0.613563 +J(0) +M(C:0K, Fs:13584, WS:52032K # 52032K, PF:28708K # 28940K, P:28708K)
+[6] 0.041246 +J(0) +M(C:0K, Fs:29, WS:116K # 116K, PF:24K # 0K, P:24K)
+[7] 0.005521 -0.000002 (1) WT +J(0) +M(C:0K, Fs:530, WS:2116K # 2116K, PF:2052K # 1844K, P:2052K)
+[8] 0.031431 -0.000897 (5) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:705744/432) +M(C:0K, Fs:3393, WS:384K # 392K, PF:288K # 296K, P:288K)
+[9] 0.000738 +J(0) +M(C:0K, Fs:3, WS:12K # 4K, PF:0K # 0K, P:0K)
+[10] 0.001504 +J(0) +M(C:0K, Fs:1, WS:-2044K # 0K, PF:-2044K # 0K, P:-2044K)
+[11] 0.000021 +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:49/1) +M(C:0K, Fs:3, WS:12K # 0K, PF:0K # 0K, P:0K)
+[12] 0.001898 -0.001809 (1) WT +J(0) +M(C:0K, Fs:3, WS:12K # 0K, PF:0K # 0K, P:0K)
+[13] 0.054603 -0.040681 (2) CM -0.006624 (15) WT +J(CM:2, PgRf:2, Rd:0/2, Dy:0/0, Lg:8759/5) +M(C:0K, Fs:557, WS:-136K # 0K, PF:-132K # 0K, P:-132K)
+[14] 0.000013 +J(0)
+[15] 0.000008 +J(0)
+[16] 0.000197 +J(0) +M(C:0K, Fs:2, WS:0K # 0K, PF:0K # 0K, P:0K).    |    lgposV2[] = 00000002:0001:0000 - 00000002:00AE:002B - 00000002:00AF:0000 - 00000002:00AF:0000 (00000000:0000:0000)
+cReInits = 42
+RBSOn = 0
+
+Info    | 2023-05-10 09:10:43 | ESENT |     |    Video.UI    |    15620,U,98    |    {ABAEE815-1217-4184-B974-AC51B8B6AB53}: 
+Info    | 2023-05-10 09:10:43 | ESENT |     |    Video.UI    |    15620,R,98    |    {ABAEE815-1217-4184-B974-AC51B8B6AB53}:     |    C:\Users\Mugil\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\62b869883e79c27a\edb.log    |    
+[1] 0.028595 -0.000897 (5) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:705744/432) +M(C:0K, Fs:3314, WS:152K # 88K, PF:120K # 52K, P:120K).    |    FWriteLog    |    48
+Info    | 2023-05-10 09:10:43 | ESENT |     |    Video.UI    |    15620,R,98    |    {ABAEE815-1217-4184-B974-AC51B8B6AB53}:     |    C:\Users\Mugil\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\62b869883e79c27a\EntClientDb.edb    |    0x410022D8 (8920 | JET_efvAllowHigherPersistedFormat)    |    8920 (0x22d8)    |    9480 (0x2508)
+Info    | 2023-05-10 09:10:43 | ESENT |     |    Video.UI    |    15620,R,98    |    {ABAEE815-1217-4184-B974-AC51B8B6AB53}: 
+Info    | 2023-05-10 09:10:43 | ESENT |     |    Video.UI    |    15620,P,98    |    {ABAEE815-1217-4184-B974-AC51B8B6AB53}:     |    0    |    10    |    00    |    22624    |    0000
+Info    | 2023-05-10 08:45:57 | Software Protection Platform Service |     |    2023-06-09T06:09:57Z    |    RulesEngine
+Info    | 2023-05-10 08:45:13 | Software Protection Platform Service | 
+Info    | 2023-05-10 08:40:17 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2023-05-10 08:40:17 | DellTechHub |     |    PowerEvent handled successfully by the service.
+Info    | 2023-05-10 08:40:12 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2023-05-10 08:40:12 | DellTechHub |     |    PowerEvent handled successfully by the service.
+Info    | 2023-05-10 06:39:44 | DSAService |     |    <DSAExceptionEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://www.intel.com"><OS><Description>Windows 10 Home Single Language</Description><Version>6.3</Version><Build>22624</Build><Release>2009</Release><EpmId>windows-11-22h2-64</EpmId></OS><DSAVersion>23.1.9.7</DSAVersion><Module>DSAUpdateService.exe</Module><ClassName>DSAUpdateService.Service</ClassName><MethodName>UpdateCheckPoll</MethodName><ExceptionType>StaleDataFromDownloadCacheException</ExceptionType><Message>2</Message></DSAExceptionEvent>
+Info    | 2023-05-10 06:20:26 | Software Protection Platform Service |     |    2023-06-09T06:10:26Z    |    RulesEngine
+Info    | 2023-05-10 06:19:56 | Software Protection Platform Service | 
+Warning | 2023-05-10 06:14:14 | Microsoft-Windows-Perflib |     |    WmiApRpl    |    C:\WINDOWS\system32\wbem\wmiaprpl.dll    |    21
+Warning | 2023-05-10 06:14:14 | Microsoft-Windows-Perflib |     |    ESENT    |    C:\WINDOWS\system32\esentprf.dll    |    5
+Warning | 2023-05-10 06:14:14 | Microsoft-Windows-Perflib |     |    .NETFramework    |    C:\WINDOWS\system32\mscoree.dll    |    5
+Info    | 2023-05-10 06:12:22 | Software Protection Platform Service |     |    2023-06-09T06:10:22Z    |    RulesEngine
+Info    | 2023-05-10 06:11:56 | SecurityCenter |     |    Windows Defender    |    SECURITY_PRODUCT_STATE_ON
+Info    | 2023-05-10 06:11:55 | DDVCollectorSvcApi |     |    Service started/resumed
+Info    | 2023-05-10 06:11:54 | SecurityCenter | 
+Info    | 2023-05-10 06:11:52 | Software Protection Platform Service | 
+Info    | 2023-05-10 06:11:51 | Software Protection Platform Service |     |    <explicit>
+Info    | 2023-05-10 06:11:51 | gupdate |     |    Service stopped
+Info    | 2023-05-10 06:11:49 | edgeupdate |     |    Service stopped
+Info    | 2023-05-10 06:11:49 | DellTechHub |     |    Service started successfully.
+Info    | 2023-05-10 06:11:49 | DellClientManagementService |     |    Service started successfully.
+Info    | 2023-05-10 06:11:49 | DellClientManagementService |     |    Service started successfully.2023-05-10 06:11:20 | Software Protection Platform Service | 
+Info    | 2023-05-10 06:11:20 | Software Protection Platform Service |     |    2023-06-09T06:10:20Z    |    RulesEngine
+Warning | 2023-05-10 06:10:50 | Software Protection Platform Service |     |    0x8007007B    |    0ff1ce15-a989-479d-af46-f275c6370663    |    b322da9c-a2e2-4058-9e4e-f59a6970bd69    |    UserLogon(1)
+Warning | 2023-05-10 06:10:50 | Software Protection Platform Service |     |    0xC004F074    |    0ff1ce15-a989-479d-af46-f275c6370663    |    b13afb38-cd79-4ae5-9f7f-eed058d750ca    |    UserLogon(1)
+Info    | 2023-05-10 06:10:50 | Software Protection Platform Service |     |    0xC0020017, 0x00000000, 10.44.107.46:1688, 1c412302-54e0-4ef8-8ae2-31041544b9f6, 2023/05/10 06:10, 0, 5, 0, b13afb38-cd79-4ae5-9f7f-eed058d750ca, 5
+Warning | 2023-05-10 06:10:29 | Software Protection Platform Service |     |    0x8007007B    |    0ff1ce15-a989-479d-af46-f275c6370663    |    b322da9c-a2e2-4058-9e4e-f59a6970bd69    |    NetworkAvailable
+Warning | 2023-05-10 06:10:29 | Software Protection Platform Service |     |    0xC004F074    |    0ff1ce15-a989-479d-af46-f275c6370663    |    b13afb38-cd79-4ae5-9f7f-eed058d750ca    |    NetworkAvailable
+Info    | 2023-05-10 06:10:29 | Software Protection Platform Service |     |    0xC0020017, 0x00000000, 10.44.107.46:1688, 1c412302-54e0-4ef8-8ae2-31041544b9f6, 2023/05/10 06:10, 0, 5, 0, b13afb38-cd79-4ae5-9f7f-eed058d750ca, 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     +--------------------------------------------------------------------+ 
+     |                   Windows Event Viewer: "System"                   | 
+     +--------------------------------------------------------------------+ 
+
+
+
+
+
+
+
+
+Warning | 2023-05-10 11:47:44 | DCOM |     |    application-specific    |    Local    |    Activation    |    {2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}    |    {15C20B67-12E7-4BB6-92BB-7AFF07997402}    |    DESKTOP-DBDG3R5    |    Mugil    |    S-1-5-21-3538912014-3826891016-3662973680-1001    |    LocalHost (Using LRPC)    |    Unavailable    |    Unavailable
+Warning | 2023-05-10 10:11:46 | Microsoft-Windows-DNS-Client |     |    teams.events.data.microsoft.com    |    128    |    170000000000000024050201E03B781F00000000C0A81D010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000    |    13608
+Warning | 2023-05-10 09:55:08 | Microsoft-Windows-DNS-Client |     |    femetrics.grammarly.io    |    128    |    170000000000000024050201E03B781F00000000C0A81D010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000    |    4420
+Info    | 2023-05-10 09:49:01 | Microsoft-Windows-Kernel-Power |     |    false    |    32085    |    32906
+Warning | 2023-05-10 09:31:55 | DCOM |     |    application-specific    |    Local    |    Activation    |    {2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}    |    {15C20B67-12E7-4BB6-92BB-7AFF07997402}    |    DESKTOP-DBDG3R5    |    Mugil    |    S-1-5-21-3538912014-3826891016-3662973680-1001    |    LocalHost (Using LRPC)    |    Unavailable    |    Unavailable
+Info    | 2023-05-10 09:10:43 | Microsoft-Windows-Kernel-General |     |    97    |    \??\C:\Users\Mugil\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\Settings\settings.dat    |    13    |    2
+Warning | 2023-05-10 08:48:21 | DCOM |     |    application-specific    |    Local    |    Activation    |    {2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}    |    {15C20B67-12E7-4BB6-92BB-7AFF07997402}    |    DESKTOP-DBDG3R5    |    Mugil    |    S-1-5-21-3538912014-3826891016-3662973680-1001    |    LocalHost (Using LRPC)    |    Unavailable    |    Unavailable
+Info    | 2023-05-10 08:47:16 | Service Control Manager |     |    Windows Modules Installer    |    auto start    |    demand start    |    TrustedInstaller
+Info    | 2023-05-10 08:46:42 | TPM |     |    0x1e    |    960    |    371    |    395
+Info    | 2023-05-10 08:46:42 | TPM |     |    0x1e    |    960    |    371    |    395
+Info    | 2023-05-10 08:46:41 | TPM |     |    0x1e    |    960    |    371    |    395
+Info    | 2023-05-10 08:45:57 | Service Control Manager |     |    Windows Modules Installer    |    demand start    |    auto start    |    TrustedInstaller
+Info    | 2023-05-10 08:45:37 | Microsoft-Windows-WindowsUpdateClient |     |    Cumulative Update for Windows 11 Insider Preview (10.0.22624.1755) (KB5026438)    |    {4dd7c8dc-2dca-40f7-9ff1-a9ad22fe8fb9}    |    1
+Info    | 2023-05-10 08:45:37 | Microsoft-Windows-WindowsUpdateClient |     |    Security Update for Microsoft Excel 2013 (KB5002384) 32-Bit Edition    |    {4955d04f-2534-4fba-b09e-1c017e046a9b}    |    201
+Info    | 2023-05-10 08:45:37 | Microsoft-Windows-WindowsUpdateClient |     |    Security Update for Microsoft Word 2013 (KB5002365) 32-Bit Edition    |    {42fb49b2-c274-4a2d-ac87-f1d623b8fa81}    |    201
+Info    | 2023-05-10 08:40:32 | TPM |     |    0x1e    |    960    |    371    |    395
+Info    | 2023-05-10 08:40:32 | TPM |     |    0x1e    |    960    |    371    |    395
+Info    | 2023-05-10 08:40:31 | TPM |     |    0x1e    |    960    |    371    |    395
+Info    | 2023-05-10 08:40:12 | Microsoft-Windows-Kernel-Power |     |    true    |    7391    |    32906
+Info    | 2023-05-10 08:34:20 | Microsoft-Windows-Kernel-Power |     |    137    |    31    |    1    |    1    |    3382278089    |    12476    |    32906    |    7954    |    32906    |    3    |    0    |    false    |    31
+Info    | 2023-05-10 08:34:20 | Microsoft-Windows-Kernel-Power |     |    4813    |    3382284879    |    0    |    0    |    0    |    3382284879    |    0    |    81    |    false    |    31    |    0    |    0    |    false    |    0    |    447302    |    true    |    true    |    0    |    7    |    0    |    true    |    false    |    3    |    false    |    7954    |    32906    |    1    |    137    |    0    |    3382284879    |    0    |    0    |    0    |    0    |    444859    |    false    |    12476    |    7954    |    3382278089    |    0    |    0    |    0    |    32906    |    32906    |    0    |    0    |    4    |    0
+Info    | 2023-05-10 07:37:58 | Microsoft-Windows-Kernel-Power |     |    12    |    true    |    false    |    1    |    12476    |    32906    |    1    |    137
+Info    | 2023-05-10 07:37:58 | Microsoft-Windows-Kernel-Power |     |    137    |    12    |    0    |    0    |    5323812928    |    0    |    0    |    12476    |    32906    |    1    |    1    |    false    |    12
+Info    | 2023-05-10 07:20:26 | Microsoft-Windows-Time-Service |     |    VMICTimeProvider
+Info    | 2023-05-10 07:09:09 | Service Control Manager |     |    DBUtilDrv2 Service    |    demand start    |    disabled    |    DBUtilDrv2
+Info    | 2023-05-10 07:09:09 | Service Control Manager |     |    DBUtilDrv2 Service    |    \SystemRoot\System32\drivers\DBUtilDrv2.sys    |    kernel mode driver    |    demand start    |    ?
+Info    | 2023-05-10 07:08:59 | Service Control Manager |     |    Background Intelligent Transfer Service    |    demand start    |    auto start    |    BITS
+Info    | 2023-05-10 07:03:22 | Microsoft-Windows-Time-Service |     |    VMICTimeProvider
+Error   | 2023-05-10 06:50:06 | DCOM |     |    "C:\WINDOWS\system32\DllHost.exe" /Processid:{AD54D7CA-052D-4730-B0F2-2BA34D3438DC}    |    2147958012    |    {AD54D7CA-052D-4730-B0F2-2BA34D3438DC}    |    Unavailable    |    Unavailable
+Info    | 2023-05-10 06:46:18 | Microsoft-Windows-Time-Service |     |    VMICTimeProvider
+Info    | 2023-05-10 06:30:08 | Service Control Manager |     |    Background Intelligent Transfer Service    |    auto start    |    demand start    |    BITS
+Info    | 2023-05-10 06:30:00 | EventLog |     |    ?    |    ?    |    ?    |    ?    |    1246    |    60    |    ?
+Info    | 2023-05-10 06:29:14 | Microsoft-Windows-Time-Service |     |    VMICTimeProvider
+Info    | 2023-05-10 06:28:07 | BROWSER |     |    \Device\NetBT_Tcpip_{AD751224-0C84-427C-B75A-9591B1EF4096}
+Info    | 2023-05-10 06:28:01 | Service Control Manager |     |    Background Intelligent Transfer Service    |    demand start    |    auto start    |    BITS
+Warning | 2023-05-10 06:26:57 | BROWSER |     |    \\DESKTOP-29L9I9C    |    \Device\NetBT_Tcpip_{AD751224-0C84-427C-B75A-9591B1EF4096}
+Info    | 2023-05-10 06:24:05 | Microsoft-Windows-Kernel-General |     |    164    |    \??\C:\ProgramData\Packages\WinRAR.ShellExtension_s4jet1zx4n14a\S-1-5-21-3538912014-3826891016-3662973680-1001\SystemAppData\Helium\Cache\a08083d17e1a3cf8_COM15.dat    |    1    |    1
+Error   | 2023-05-10 06:24:05 | DCOM |     |    "C:\WINDOWS\system32\DllHost.exe" /Processid:{AD54D7CA-052D-4730-B0F2-2BA34D3438DC}    |    2147958012    |    {AD54D7CA-052D-4730-B0F2-2BA34D3438DC}    |    Unavailable    |    Unavailable
+Info    | 2023-05-10 06:20:29 | Microsoft-Windows-Kernel-General |     |    168    |    \??\C:\ProgramData\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\S-1-5-21-3538912014-3826891016-3662973680-1001\SystemAppData\Helium\Cache\ae46d06ce82f6b20_COM15.dat    |    1    |    1
+Info    | 2023-05-10 06:12:45 | TPM |     |    0x1e    |    960    |    371    |    395
+Info    | 2023-05-10 06:12:45 | TPM |     |    0x1e    |    960    |    371    |    395
+Info    | 2023-05-10 06:12:44 | TPM |     |    0x1e    |    960    |    371    |    395
+Info    | 2023-05-10 06:12:22 | Service Control Manager |     |    Background Intelligent Transfer Service    |    auto start    |    demand start    |    BITS
+Info    | 2023-05-10 06:12:09 | Microsoft-Windows-HttpService |     |    18158513723864514561    |    http://127.0.0.1:8884:127.0.0.1/    |    0    |    9092    |    \Device\HarddiskVolume5\Program Files\Dell\SupportAssistAgent\bin\SupportAssistAgent.exe    |    S-1-5-18
+Info    | 2023-05-10 06:12:09 | Microsoft-Windows-HttpService |     |    18158513723864514561    |    0    |    9092    |    \Device\HarddiskVolume5\Program Files\Dell\SupportAssistAgent\bin\SupportAssistAgent.exe    |    S-1-5-18
+Info    | 2023-05-10 06:12:09 | Microsoft-Windows-HttpService |     |    http://127.0.0.1:8884:127.0.0.1/    |    0    |    9092    |    \Device\HarddiskVolume5\Program Files\Dell\SupportAssistAgent\bin\SupportAssistAgent.exe    |    S-1-5-18
+Info    | 2023-05-10 06:12:09 | HTTP |     |    ?    |    http://127.0.0.1:8884:127.0.0.1/
+Info    | 2023-05-10 06:12:09 | HTTP |     |    ?    |    http://127.0.0.1:8884:127.0.0.1/
+Info    | 2023-05-10 06:12:09 | Microsoft-Windows-HttpService |     |    http://127.0.0.1:8884:127.0.0.1/    |    3221225525    |    9092    |    \Device\HarddiskVolume5\Program Files\Dell\SupportAssistAgent\bin\SupportAssistAgent.exe    |    S-1-5-18
+Warning | 2023-05-10 06:11:54 | DCOM |     |    application-specific    |    Local    |    Launch    |    Windows.SecurityCenter.WscDataProtection    |    Unavailable    |    NT AUTHORITY    |    SYSTEM    |    S-1-5-18    |    LocalHost (Using LRPC)    |    Unavailable    |    Unavailable
+Warning | 2023-05-10 06:11:54 | DCOM |     |    application-specific    |    Local    |    Launch    |    Windows.SecurityCenter.WscBrokerManager    |    Unavailable    |    NT AUTHORITY    |    SYSTEM    |    S-1-5-18    |    LocalHost (Using LRPC)    |    Unavailable    |    Unavailable
+Warning | 2023-05-10 06:11:54 | DCOM |     |    application-specific    |    Local    |    Launch    |    Windows.SecurityCenter.SecurityAppBroker    |    Unavailable    |    NT AUTHORITY    |    SYSTEM    |    S-1-5-18    |    LocalHost (Using LRPC)    |    Unavailable    |    Unavailable
+Info    | 2023-05-10 06:11:54 | Microsoft-Windows-Time-Service |     |    time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->40.81.94.65:123)
+Info    | 2023-05-10 06:11:54 | Microsoft-Windows-Time-Service |     |    VMICTimeProvider
+Info    | 2023-05-10 06:11:51 | Microsoft-Windows-IsolatedUserMode |     |    0    |    0    |    0    |    NULL
+Info    | 2023-05-10 06:11:50 | Service Control Manager |     |    MpKsl54ad8232    |    C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{C04E177D-FA7F-43B4-96FC-4FDF09183D51}\MpKslDrv.sys    |    kernel mode driver    |    demand start    |    ?
+Info    | 2023-05-10 06:11:04 | TPM |     |    0x1e    |    960    |    371    |    395
+Info    | 2023-05-10 06:11:04 | TPM |     |    0x1e    |    960    |    371    |    395
+Info    | 2023-05-10 06:11:04 | TPM |     |    0x1e    |    960    |    371    |    395
+Warning | 2023-05-10 06:10:40 | DCOM |     |    application-specific    |    Local    |    Activation    |    {2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}    |    {15C20B67-12E7-4BB6-92BB-7AFF07997402}    |    DESKTOP-DBDG3R5    |    Mugil    |    S-1-5-21-3538912014-3826891016-3662973680-1001    |    LocalHost (Using LRPC)    |    MicrosoftTeams_23091.406.2009.3890_x64__8wekyb3d8bbwe    |    Unavailable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[18:21.03.756]          !!!! EXCEPTION EAccessViolation:  Access violation at address 776F3D25 in module 'ntdll.dll'. Write of address 0000000C
